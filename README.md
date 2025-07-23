@@ -30,8 +30,18 @@ Welcome to my personal repository showcasing AI agents built for a variety of ga
 
 ## 📁 Structure
 
-/gomoku_mcts/ # MCTS-based Gomoku agent
-/blackjack_rl/ # RL agents for Blackjack
-/2048_expectimax/ # Expectimax agent for 2048
-/sudoku_csp/ # CSP-based Sudoku solver
+MCTS-based Gomoku agent- gomoku_mcts
+RL agents for Blackjack- blackjack_rl
+Expectimax agent for 2048- 2048_expectimax
+CSP-based Sudoku solver- sudoku_csp
+
+Each folder contains:
+- Source code
+- Agent description and comments
+- Test scripts and environments
+
+## Author
+Devam Derasary
+dderasar@ucsd.edu
+
 
